@@ -1,0 +1,25 @@
+{
+  "name": "briefcase-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeraldEDU19/Briefcase-Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/GeraldEDU19/Briefcase-Node/issues"
+  },
+  "homepage": "https://github.com/GeraldEDU19/Briefcase-Node#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
